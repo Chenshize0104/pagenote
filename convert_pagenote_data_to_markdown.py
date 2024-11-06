@@ -257,4 +257,4 @@ print("markdown文件已生成并保存为pagenote.md")
 # > * To account for variation in the number of sampled styles among species, we standardized pollen data to the same number of styles (n = 54) across species, which outperforms standardization based on rarefaction in preventing information loss and detecting differences among samples (that is, pollen loads of individual species on stigmas)47.
 
 
-在Obsidian中打开食用！
+# 在Obsidian中打开食用！
